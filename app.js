@@ -1,12 +1,6 @@
-var bar = 10;
+import React from 'react';
+import ReactDom from 'react-dom';
 
-const promise = new Promise((resolve, reject) => {
-  resolve('abc');
-});
+const jsx = <p>hello jsx</p>
 
-const obj = {
-  name: 'dvn',
-  age: 24
-}
-
-document.write(foo);
+ReactDom.render(jsx, document.getElementById('app'));
