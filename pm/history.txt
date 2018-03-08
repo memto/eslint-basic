@@ -6,4 +6,7 @@ DONE:
 - install eslint as a Dev dependence, .node_modules/.bin added in .bashrc
 so can run local modules from current directory
 
+- custom eslint config by extends eslint:recommended. extends work like inheritence in 
+programming, with this we have all setting from eslint:recommended
+
 TODO:
