@@ -18,4 +18,6 @@ on that environment like set *browser* env to has access to *document*
   - eslint module installed globally or locally (locally in this case)
   - .eslintrc config file in project directory
 
+- install eslint airbnb config and extends it
+
 TODO:
