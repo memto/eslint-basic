@@ -1,0 +1,6 @@
+DONE:
+- setup project using npm init
+- create pm/history.txt for project management purpose
+- git init, add .gitignore, add first commit
+
+TODO:
