@@ -20,4 +20,7 @@ on that environment like set *browser* env to has access to *document*
 
 - install eslint airbnb config and extends it
 
+- when using eslint rules from plugin like react, 
+to customize it go and search for it name.
+
 TODO:
