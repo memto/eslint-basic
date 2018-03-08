@@ -3,4 +3,7 @@ DONE:
 - create pm/history.txt for project management purpose
 - git init, add .gitignore, add first commit
 
+- install eslint as a Dev dependence, .node_modules/.bin added in .bashrc
+so can run local modules from current directory
+
 TODO:
