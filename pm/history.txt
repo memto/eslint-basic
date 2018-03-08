@@ -9,4 +9,9 @@ so can run local modules from current directory
 - custom eslint config by extends eslint:recommended. extends work like inheritence in 
 programming, with this we have all setting from eslint:recommended
 
+- custom eslint to add parserOptions and env.
+parserOptions to config js version, here ecmascript version 6
+env to config execution environment which to has access to global variables
+on that environment like set *browser* env to has access to *document*
+
 TODO:
