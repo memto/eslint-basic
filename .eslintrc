@@ -7,5 +7,14 @@
     "node": true,
     "es6": true,
     "browser": true
+  },
+  "rules": {
+    "comma-dangle":["error", "never"],
+    "no-unused-vars": ["error", 
+      {
+        "vars": "local",
+        "args": "none"
+      }
+    ]
   }
 }
